@@ -1,0 +1,2 @@
+hello, I am testing creating new branch and adding .gitignore file in my repo
+Hurray!
